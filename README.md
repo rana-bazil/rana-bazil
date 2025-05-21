@@ -74,13 +74,10 @@ With over 9 years of hands-on experience across diverse industries, I architect,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rana-bazil&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rana-bazil&theme=github-dark&hide_border=false" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-bazil&layout=compact&theme=github_dark&hide_border=false" height="150" />
-</p>
+
 
 ---
 
