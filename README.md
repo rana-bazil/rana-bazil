@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hi, I'm Bazil Rana</h1>
 
-<p align="center">
-  Full Stack Engineer | Tech Entrepreneur | 9+ Years Experience
-</p>
+<h1 align="center">Hi, I’m Bazil — the guy who scales ideas into software.</h1>
+<p align="center"><b>💻 Full Stack Engineer | ⚙️ Systems Thinker | 📈 9+ Years Solving Real-World Tech Problems</b></p>
 
 ---
 
